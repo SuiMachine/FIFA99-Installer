@@ -1,0 +1,1 @@
+sdbinst.exe -q "%CD%\fifa99.sdb"
